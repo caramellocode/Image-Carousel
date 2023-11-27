@@ -4,6 +4,13 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: 'Alien3Regular';
+  src: url('Alien3Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 
 
 body {
